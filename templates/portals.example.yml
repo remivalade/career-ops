@@ -562,6 +562,12 @@ tracked_companies:
     notes: "Berlin + remote. Workflow automation."
     enabled: true
 
+  - name: Boomi
+    careers_url: https://job-boards.greenhouse.io/boomilp
+    api: https://boards-api.greenhouse.io/v1/boards/boomilp/jobs
+    notes: "Integration and automation platform."
+    enabled: true
+
   - name: Celonis
     careers_url: https://job-boards.greenhouse.io/celonis
     api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
@@ -586,6 +592,23 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:talkdesk.com/careers "Product Marketing" OR "Solutions Engineer" OR "Solutions Architect"'
     notes: "Lisbon. Contact center AI. EMEA friendly."
+    enabled: true
+
+  - name: Hootsuite
+    careers_url: https://job-boards.greenhouse.io/hootsuite
+    api: https://boards-api.greenhouse.io/v1/boards/hootsuite/jobs
+    notes: "Vancouver. Social media management platform."
+    enabled: true
+
+  - name: Later
+    careers_url: https://job-boards.greenhouse.io/later
+    api: https://boards-api.greenhouse.io/v1/boards/later/jobs
+    notes: "Vancouver/Toronto. Social media and creator platform."
+    enabled: true
+
+  - name: Klue
+    careers_url: https://jobs.ashbyhq.com/klue
+    notes: "Vancouver. Competitive intelligence SaaS."
     enabled: true
 
   - name: Palantir
